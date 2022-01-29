@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/RadiantGuise/wdb_Language_Guesser#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "franc": "^6.0.0",
     "langs": "^2.0.0"
   }
